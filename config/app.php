@@ -73,7 +73,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Applicationn Locale Configuration
+    | Applicationn Localee Configurationn
     |--------------------------------------------------------------------------
     |
     | The application locale determines the default locale that will be used
@@ -82,7 +82,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'pt-br',
 
     /*
     |--------------------------------------------------------------------------
